@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MainInterface/1.0.0": {
+        "dependencies": {
+          "CompLaba": "1.0.0"
+        },
+        "runtime": {
+          "MainInterface.dll": {}
+        }
+      },
+      "CompLaba/1.0.0": {
+        "runtime": {
+          "CompLaba.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CompLaba/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
